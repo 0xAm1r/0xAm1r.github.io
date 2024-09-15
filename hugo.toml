@@ -1,0 +1,74 @@
+baseURL = 'https://0xam1r.github.io/'
+languageCode = 'en-us'
+title = '0xAmir'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-45TGBRESWZ"
+
+[params]
+# Meta description
+description = "A Tech Blog"
+# Appearance settings
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+#homeIntroTitle = 'Hi!'
+homeIntroContent = """
+This blog is a collection of thoughts, ideas, and insights that I find worthy of consideration. It serves as a platform to share my reflections on various topics that pique my interest and hopefully engage readers in thought-provoking discussions.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "Email"
+url = "mailto:0xamirr@gmail.com"
+
+[[params.social]]
+name = "X"
+url = "https://www.x.com/0xamir"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/0xAm1r"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

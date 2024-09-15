@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 0xAmir</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 0xAmir</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing stuff down</title>
+      <link>http://localhost:1313/posts/my-new-post/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <description>I always wanted to start blogging about stuff that I find interesting but oh boy you won’t know how scrambled your thoughts are until you start to articulate them to write them down.&#xA;anyways.&#xA;I think writing down what occupies my mind is a great way to stay sane, a form of therapy of some sort, although coming to what role psychology can play in your life I believe little to none.</description>
+    </item>
+  </channel>
+</rss>
