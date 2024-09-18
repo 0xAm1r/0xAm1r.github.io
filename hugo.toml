@@ -1,6 +1,6 @@
 baseURL = 'https://0xam1r.github.io/'
 languageCode = 'en-us'
-title = ':q!'
+title = 'Amir Naeimi'
 theme = 'typo'
 
 [taxonomies]
@@ -36,8 +36,10 @@ listDateFormat = '2 Jan 2006'
 # Breadcrumbs
 breadcrumbs = true
 
+# Disable fav  icon on all pages 
 [[params.meta]]
-favicon = false 
+favicon = false
+
 # Social icons
 [[params.social]]
 name = "Email"
