@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Amir Naeimi</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://0xam1r.github.io/posts/</link>
     <description>Recent content in Posts on Amir Naeimi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xam1r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing stuff down</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
+      <link>https://0xam1r.github.io/posts/p1/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <guid>https://0xam1r.github.io/posts/p1/</guid>
       <description>I always wanted to start blogging about stuff that I find interesting but oh boy you won’t know how scrambled your thoughts are until you start to articulate them to write them down.&#xA;anyways.&#xA;I think writing down what occupies my mind is a great way to stay sane, a form of therapy of some sort, although coming to what role psychology can play in your life I believe little to none.</description>
     </item>
   </channel>
