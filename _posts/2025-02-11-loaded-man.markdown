@@ -32,8 +32,8 @@ To fulfill the Techno-Optimist Manifesto there’s no place for the Loaded Man.
 
 ---
 \
-By the recent events unfolding in tech, I’ve been contemplating a path out of this wasted place, I’ve been learning and developing my skills in order to get myself somewhere that obsessive attention to science and technology isn’t stifled. I made this blog to walk myself through this journey and as a reminder of my current situation and to make sure I don’t let my brilliant thoughts go to waste :)
+By the recent events unfolding in tech, I’ve been contemplating a path out of this wasted place, I’ve been learning and developing my skills in order to get myself somewhere that obsessive attention to science and technology isn’t stifled. I made this blog to walk myself through this journey and as a reminder of my current situation and to make sure I don’t let my brilliant thoughts go to waste (jk) :)
 
 ---
 \
-After going through this boring neural noise of mine, congrats you've made it. I won't be bothering you for long now, just for the last word remember it is going be epic experiencing the singularity.
+After going through this boring neural noise of mine, congrats you've made it. I won't be bothering you for long now, just for the last word remember it is going to be epic experiencing the singularity.
