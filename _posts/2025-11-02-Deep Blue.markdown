@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Deep Blue"
+date:   2025-11-02
+categories: blog
+---
+
+Was the 1990s the best period to be alive?
+the collapse of the soviet union and the end of the cold war, the internet becoming popularized by dial ups, the Y2K bug, and the end of history as it was called.
+I was born in 95, so I experienced just a tiny percentage of it but I was always fascinated by the legacy of that decade.
+
+A question I ask myself about any such period of time is: Did they know how different it was?
+
+What else was it about?
+Well one thing was Deep Blue, an IBM chess playing supercomputer, with 11 GFLOPS of compute (way slower than your phone) in a 1.4 tons giant metal box which defeated the chess champion Kasparov.
+Imagine the moment, imagine the life trajectories that was spawned in that moment of excitement for so many people that went on to invent and found the companies that changed the whole technological scene in the coming years. Only because they saw a computer play chess better than a human ever could.
+
+>You could never have predicted  
+>That he could see through you  
+>Kasparov, Deep Blue, 1996  
+>Your mind's pulling tricks now  
+>The show is over so take a bow  
+> -Arcade Fire  
+
+That became the pivoting point for the AI field to emerge out of the winter and to attract more attention and funding which in my opinion is the most important outcome of that decade. the long wait for AI research to get on its feet was finally over. Probably you didn’t hear or read about it! yep because it wasn’t the hype, the industry learned its lesson; stop overpromising and underdelivering.
+
+Don’t get fooled by the hype: grifters, rent seekers and managers. and on the opposite side, be aware of the cult of safetyism.
+
+Do that and maybe we’ll have a chance this time around.
